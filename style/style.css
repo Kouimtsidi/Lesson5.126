@@ -1,0 +1,75 @@
+/*header*/
+.logo,
+.nav,
+.navigation,
+.photo {display: inline-block;
+        vertical-align: middle;}
+.navigation{font-family: 'Festive', cursive;
+           font-family: 'IBM Plex Sans', sans-serif;
+           font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+           font-family: 'PT Sans', sans-serif;}
+.logo{margin-left: 20px;}
+.navigation{margin-right: 40px;
+            margin-left: 92px;}
+.discovery{margin-right: 22px;
+           margin-left: 27px;}
+.contact{margin-right: 40px;
+         margin-left: 22px;}
+/*section*/
+.relative{position: relative;}
+.text1{position: absolute;
+       top:28px; 
+       left: 40px;
+       width: 280px;
+       heiht: 18px;}
+.section{width: 1160px;
+	     margin: auto;}
+.block{width: 360px;
+       display: inline-block;}
+.second{margin-right:20px;
+        margin-left:20px;}
+
+.text3{width: 360px;
+	   margin: auto;
+	   text-align: center;
+       margin-top: 66px;}
+.picture{width: 360px;}
+.title{margin-top: 25px;
+       margin-bottom: 40px;}
+.lorem{font-family: 'Festive', cursive;
+       font-family: 'IBM Plex Sans', sans-serif;
+       font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+       color: #A6ADB4;}
+
+/*section2*/
+.title2{margin-top: 53px;}
+.block-left{display: inline-block;}
+
+.relative2{position: relative;
+           margin-bottom: 40px;
+           margin-top: 40px;}
+.absolute2{position: absolute;
+           top: 396px;
+           left:520px; 
+           width:280px; 
+           height:16px; }
+
+
+
+.block-right{display: inline-block;
+             margin-left: 20px;
+             margin-top: 40px;} 
+             /*მარგინ ლეფტ მუშაობს და ტოპი არა ვერ ვხვდები რატო*/
+.absolute3{position: absolute;
+	       top: 18px;
+	       left: 40px;
+           width: 280px;
+	       height: 16px;}
+.relative3{position: relative;
+           margin-bottom: 102px;
+           margin-top: 40px;}
+/*აქაც გავწერე ტოპი მაგრამ მარჯვენა ბლოკი ვერაფრით ავწიე*/
+.box{margin-bottom: 102px;}
+
+/*მარჯვენა და მარცხენა ბლოკებს შორის სულ ქვემოთ მათ შორის დაშორება იქსდიში 40 იყო მაგრამ ჩემთან მაგ შემთვევაში არ ეტეოდა მარჯვენა ბლოკი და 20 დავწერე*/
+
